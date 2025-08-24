@@ -20,12 +20,12 @@ Create relevant insights not provided in the metric list or stakeholder meeting.
 
 **Data Model**
 <p align="center">
-<img src="media/model.png" height="400">
+<img src="media/Model.png" height="400">
 </p>
 
 **Dashboard**
 <p align="center">
-<img src="Overview.png">
+<img src="media/Overview.png">
 </p>
 
 ***Key Insights**:
