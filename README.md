@@ -44,3 +44,7 @@ There have been no noticeable improvements in any of the key metrics in the last
 There is a big gap in IF% vs. Target for most of the customers. Is this because of less production?
 
 Lotus Mart, Coolblue, and Acclaimed Stores are among the customers with the highest number of orders but also the most delayed delivery rate.
+
+
+# Dash Board is available as Supply-chain-dashboard.pbix and can be downloaded and can be seen
+
